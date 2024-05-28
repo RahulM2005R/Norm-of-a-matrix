@@ -11,8 +11,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 	3. Print the norm of the matrix in two decimal places.
 ## Program:
 ```Python
-# Register No:2305003005
-# Developed By:Rahul M R
+# Register No:2305002023
+# Developed By:Sowmiya G
 
 # 1-Norm of a Matrix
 
